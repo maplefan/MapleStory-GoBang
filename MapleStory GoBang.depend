@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1544465326 source:d:\c++\maplestory gobang\acllib.c
+	"acllib.h"
+	"resource.h"
+	<windows.h>
+	<olectl.h>
+	<stdio.h>
+
+1426993382 d:\c++\maplestory gobang\acllib.h
+	<Windows.h>
+
+1545822081 source:d:\c++\maplestory gobang\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	"resource.h"
+	"acllib.h"
+
+1544296742 source:d:\c++\maplestory gobang\icon.rc
+
+1544392040 d:\c++\maplestory gobang\resource.h
+
+1544571561 source:d:\c++\maplestory gobang\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"resource.h"
+	"acllib.h"
+
+1544654779 source:d:\c++\maplestory gobang\ai.c
+	<time.h>
+
+1544654235 d:\c++\maplestory gobang\ai.h
+
+1544654824 d:\c++\maplestory gobang\ai.c
+
